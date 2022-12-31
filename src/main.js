@@ -19,7 +19,7 @@ Vue.use(VueParallaxJs)
 Vue.config.productionTip = false
 
 const routes = [
-  { path: '/'}
+  { path: '/about/'}
 ]
 
 const router = new VueRouter({
